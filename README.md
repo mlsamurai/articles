@@ -35,8 +35,8 @@ The case studies of the [portfolio](https://blog.korolevalab.com/portfolio/) are
 
 `experiments/` draws the covers of the portfolio's experiments from each project's own pictures.
 
-The articles are written in a private workspace, together with the courses of
-[ML Samurai](https://github.com/mlsamurai), and published here. The figures are drawn by the small library in
+The articles are written in the same private workspace as the
+[ML Samurai](https://github.com/mlsamurai) courses and published here. The figures are drawn by the small library in
 `tools/figures/`, which needs the courses' helper package:
 `pip install git+https://github.com/mlsamurai/transformers-from-scratch`. Run the scripts from the repository's
 root, so that `tools` can be imported.
